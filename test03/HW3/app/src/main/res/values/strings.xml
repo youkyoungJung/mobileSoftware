@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HW3</string>
+    <string name="hello">hello world!!!</string>
+    <string name="hanguel">한글이당!</string>
+</resources>
